@@ -10,6 +10,9 @@
   display: block;
   text-align: right;
 }
+.figure {
+  margin: 0;
+}
 .header-img {
   width: 100%;
 }
@@ -28,6 +31,10 @@
   display: block;
   width: 500px;
   margin: 0 auto 0;
+}
+#add-item {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
 }
 .task {
   width: 56%;
