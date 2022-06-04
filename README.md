@@ -33,3 +33,13 @@
   #### [Shelter](https://m-o-o-r-e.github.io/the-rolling-scopes-school//shelter/pages/pets/)
 
 ---
+
+- ### `JS Tasks`
+
+  #### CodeWars by RS School.
+
+  #### Technology stack: js, node.js.
+
+  #### [JS Tasks](https://github.com/M-o-o-r-e/the-rolling-scopes-school/tree/js-tasks)
+
+---
