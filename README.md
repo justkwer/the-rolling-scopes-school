@@ -43,3 +43,13 @@
   #### [JS Tasks](https://github.com/M-o-o-r-e/the-rolling-scopes-school/tree/js-tasks)
 
 ---
+
+- ### `Clean code`
+
+  #### The task of refactoring code with a history of commits.
+
+  #### Technology stack: css, html, js.
+
+  #### [Clean code](https://github.com/M-o-o-r-e/the-rolling-scopes-school/tree/clean-code-s1e1)
+
+---
