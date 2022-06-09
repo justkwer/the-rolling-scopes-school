@@ -53,3 +53,13 @@
   #### [Clean code](https://github.com/M-o-o-r-e/the-rolling-scopes-school/tree/clean-code-s1e1)
 
 ---
+
+- ### `Momentum`
+
+  #### My first js task with DOM events.
+
+  #### Technology stack: css, html, js.
+
+  #### [Momentum](https://m-o-o-r-e.github.io/the-rolling-scopes-school/momentum/)
+
+---
