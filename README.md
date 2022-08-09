@@ -10,7 +10,7 @@
 
   #### Technology stack: js, webpack.
 
-  #### [Virtual Keyboard](https://m-o-o-r-e.github.io/the-rolling-scopes-school/virtual-keyboard/)
+  #### [Virtual Keyboard](https://justkwer.github.io/the-rolling-scopes-school/virtual-keyboard/)
 
 ---
 
@@ -20,7 +20,7 @@
 
   #### Technology stack: css.
 
-  #### [css Mem Slider](https://m-o-o-r-e.github.io/the-rolling-scopes-school/css-mem-slider/)
+  #### [css Mem Slider](https://justkwer.github.io/the-rolling-scopes-school/css-mem-slider/)
 
 ---
 
@@ -30,7 +30,7 @@
 
   #### Technology stack: html, css, js.
 
-  #### [Shelter](https://m-o-o-r-e.github.io/the-rolling-scopes-school//shelter/pages/pets/)
+  #### [Shelter](https://justkwer.github.io/the-rolling-scopes-school//shelter/pages/main/)
 
 ---
 
@@ -40,7 +40,7 @@
 
   #### Technology stack: js, node.js.
 
-  #### [JS Tasks](https://github.com/M-o-o-r-e/the-rolling-scopes-school/tree/js-tasks)
+  #### [JS Tasks](https://github.com/justkwer/the-rolling-scopes-school/tree/js-tasks)
 
 ---
 
@@ -50,7 +50,7 @@
 
   #### Technology stack: css, html, js.
 
-  #### [Clean code](https://github.com/M-o-o-r-e/the-rolling-scopes-school/tree/clean-code-s1e1)
+  #### [Clean code](https://github.com/justkwer/the-rolling-scopes-school/tree/clean-code-s1e1)
 
 ---
 
@@ -60,6 +60,6 @@
 
   #### Technology stack: css, html, js.
 
-  #### [Momentum](https://m-o-o-r-e.github.io/the-rolling-scopes-school/momentum/)
+  #### [Momentum](https://justkwer.github.io/the-rolling-scopes-school/momentum/)
 
 ---
