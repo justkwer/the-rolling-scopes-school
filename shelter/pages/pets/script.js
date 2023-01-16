@@ -1,9 +1,6 @@
-import createPreloader from "./../../assets/js/preloader.js";
 import burgerOnclick from "../../assets/js/burger.js";
 import pagination from "../../assets/js/pagination.js";
 import popup from "../../assets/js/popup.js";
-
-createPreloader();
 
 window.addEventListener("resize", closeMenu);
 
